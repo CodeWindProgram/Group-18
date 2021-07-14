@@ -8,7 +8,12 @@
     <!-- Begin Page Content -->
     <div class="container-fluid">
 
-        <!-- Content Row 1-->
+        <!-- Page Heading -->
+        <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+        </div>
+
+        <!-- Content Row -->
         <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
                 <div class="card h-100 border-left-primary py-2">
