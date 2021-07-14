@@ -1,10 +1,10 @@
 # Attendance Module-18
 ## TEAM-1:
-- @Kunal-Nirbhavne - nirbhavnekunal@gmail.com
-- @VaishnaviAmage-123 - vaishnaviamage@ternaengg.ac.in
-- @Rutuja1101 - rutujathakur@ternaengg.ac.in
-- @krishnachavan01 - krishnachavan1180@gmail.com
-- @OM2208 - mayekarom5@gmail.com
+- @Kunal-Nirbhavne - nirbhavnekunal@gmail.com [1]
+- @VaishnaviAmage-123 - vaishnaviamage@ternaengg.ac.in [2]
+- @Rutuja1101 - rutujathakur@ternaengg.ac.in [3]
+- @krishnachavan01 - krishnachavan1180@gmail.com [4]
+- @OM2208 - mayekarom5@gmail.com [5]
 
 **Work done**:
 - **Setting up server**: Apache is the name of our web server wherein it will handle all the files as well as serve as the communication to the web browser.
