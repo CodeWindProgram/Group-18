@@ -7,11 +7,11 @@
 - @OM2208 - mayekarom5@gmail.com [5]
 
 **Work done**:
-- **Setting up server**: Apache is the name of our web server wherein it will handle all the files as well as serve as the communication to the web browser.
-- **Creating the HOME Page: index.php** - The home page of the website.
+- **Setting up server**: Apache is the name of our web server wherein it will handle all the files as well as serve as the communication to the web browser. [1][2]
+- **Creating the HOME Page: index.php** - The home page of the website. [3]
 - **Creating the includes Pages**: 
-   - **header.php** - header of the website.
-   - **navbar.php** - navigation bar of the website.
+   - **header.php** - header of the website. [4][1]
+   - **navbar.php** - navigation bar of the website. [2]
    - **scripts.php** - all scripts of the website.
    - **footer.php** - footer of the website.
 - **js**: It contains javascript files for the website.
