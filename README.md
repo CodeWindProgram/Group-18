@@ -54,19 +54,19 @@ Main content of website (pages):
    - Updating Records. [11] [13]
 ---
 
-# About:
+# About: :clipboard:
 **Attendance Module** is a software project developed for daily student attendance in schools, colleges and institutes. The purpose of developing **attendance module** is to computerize the tradition way of taking attendance. This project will help the student to get information about the current status of their Attendance, anytime they want.
 ***
 
-# Technologies Used:
+# Technologies Used: :computer:
 **Attendance Module project** is developed in a standard way using **HTML, CSS, Bootstrap, Javascript, PHP and MySQL.**
 
-## Requirements:
+## Requirements: :pencil:
   - **PHP 5.3 or higher:** Used as the Web development environment.
   - **MySQL 5.6 or higher** for spatial features in MySQL.
   - **XAMPP/WAMP** Apache HTTP server for localhost: Used as the Webpage hosting server.
 
-## Installation:
+## Installation: :key:
 1. Install **XAMPP** or WAMP. If you already have it then skip.
 2. Open XAMPP Control panel and start [**apache**] and [**mysql**].
 3. Download the source code and extract the source code to a web accessible folder **C:\xampp\htdocs\.**
@@ -74,7 +74,7 @@ Main content of website (pages):
 5. After importing successfully. open any browser and type **https://localhost/group-18/.**
 6. You are ready to go!
 ---
-# Screenshots: #
+# Screenshots: :camera:
 
 ## A. Dashboard:
 
