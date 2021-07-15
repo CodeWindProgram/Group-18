@@ -53,8 +53,13 @@ Main content of website (pages):
    - Retrieving Records from the Database. [10] [12] [13]
    - Updating Records. [11] [13]
 ---
+
+# About:
+**Attendance Module** is a software project developed for daily student attendance in schools, colleges and institutes. The purpose of developing **attendance module** is to computerize the tradition way of taking attendance. This project will help the student to get information about the current status of their Attendance, anytime they want.
+***
+
 # Technologies Used:
-Attendance Module is developed in a standard way using **HTML, CSS, Bootstrap, Javascript, PHP and MySQL.**
+**Attendance Module project** is developed in a standard way using **HTML, CSS, Bootstrap, Javascript, PHP and MySQL.**
 
 ## Requirements:
   - **PHP 5.3 or higher:** Used as the Web development environment.
