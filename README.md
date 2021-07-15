@@ -74,3 +74,48 @@ Main content of website (pages):
 5. After importing successfully. open any browser and type **https://localhost/group-18/.**
 6. You are ready to go!
 ---
+# Screenshots: #
+
+## A. Dashboard:
+
+|<img src="photos/Screenshots/Dashboard.png">|
+|:--:|
+|**Dashboard**|
+
+## B. Teacher Section:
+
+|<img src="photos/Screenshots/TakeAttendance.png">|
+|:--:|
+|**Take Attendance**|
+#
+
+|<img src="photos/Screenshots/AttendanceReport.png">|
+|:--:|
+|**Attendance Report**|
+#
+
+|<img src="photos/Screenshots/UpdateAttendance.png">|
+|:--:|
+|**View/Update Attendance**|
+#
+
+|<img src="photos/Screenshots/AddStudent.png">|
+|:--:|
+|**Add Students**|
+
+## C. Student Section:
+
+|<img src="photos/Screenshots/AllStudents.png">|
+|:--:|
+|**All Students Data**|
+#
+
+|<img src="photos/Screenshots/StudentSectionReport.png">|
+|:--:|
+|**Student Section Attendance Report**|
+#
+
+|<img src="photos/Screenshots/CheckAttendanceStudentSection.png">|
+|:--:|
+|**Check Attendance**|
+#
