@@ -119,3 +119,8 @@ Main content of website (pages):
 |:--:|
 |**Check Attendance**|
 #
+<br>
+<br>
+<br>
+<br>
+<p align="center"><img src="photos/thank-you.png" height=100></p>
